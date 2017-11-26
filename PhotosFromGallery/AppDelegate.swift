@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  PhotosFromGallery
-//
-//  Created by Vlad Kosmach on 11/24/17.
-//  Copyright © 2017 Vlad Zatcer. All rights reserved.
-//
 
 import UIKit
 
